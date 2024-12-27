@@ -883,7 +883,7 @@ footer h2{
 footer ul{
     position: absolute;
     left: 19%;
-    bottom: 6%;
+    bottom: 4%;
     display: flex;
     line-height: 0%;
     flex-direction: column;
@@ -894,7 +894,7 @@ footer ul{
 .socials{
     position: absolute;
     left: 6%;
-    bottom: 6%;
+    bottom: 4%;
     display: flex;
     line-height: 0%;
     gap: 30px;
